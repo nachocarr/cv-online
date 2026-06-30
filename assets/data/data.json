@@ -39,7 +39,7 @@
         {
             "icon": "terminal",
             "title": "HMG",
-            "subtitle": "Getor de camapañas",
+            "subtitle": "Gestor de camapañas",
            "description":  
                             "Creación de planes de medios en Google Ads y Meta. Análisis, evaluación y ejecución de optimizaciones en campañas. Comunicación constante y reporting con el cliente. Gestión de cuentas de alto rendimiento (+100k€/mes).",
             "date": "nov.2023 - ene.2025"            
@@ -52,7 +52,9 @@
                 "Colaboración en la creación de un e-commerce en wordpress. Implementación de eventos con GTM. Análisis de eventos con GA4",
 
             "date": "feb.2023 - nov.2023",
-            "url": "https://elesalubricantes.com/"
+
+            "url": "https://elesalubricantes.es/, https://elesalubricantes.com/"
+    
 
         }
     ],
@@ -72,9 +74,9 @@
                     "name": "Reflex"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "/applepark.jpg",
+            "url": "https://www.linkedin.com/in/ignacio-carrillo/",
+            "github": "https://github.com/nachocarr/"
         }
 
     ],
