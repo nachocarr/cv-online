@@ -39,7 +39,7 @@
         {
             "icon": "terminal",
             "title": "HMG",
-            "subtitle": "Gestor de camapañas",
+            "subtitle": "Gestor de campañas",
            "description":  
                             "Creación de planes de medios en Google Ads y Meta. Análisis, evaluación y ejecución de optimizaciones en campañas. Comunicación constante y reporting con el cliente. Gestión de cuentas de alto rendimiento (+100k€/mes).",
             "date": "nov.2023 - ene.2025"            
@@ -52,9 +52,9 @@
                 "Colaboración en la creación de un e-commerce en wordpress. Implementación de eventos con GTM. Análisis de eventos con GA4",
 
             "date": "feb.2023 - nov.2023",
+            "url": "https://elesalubricantes.es/"
+        
 
-            "url": "https://elesalubricantes.es/, https://elesalubricantes.com/"
-    
 
         }
     ],
@@ -74,7 +74,7 @@
                     "name": "Reflex"
                 }
             ],
-            "image": "/applepark.jpg",
+            "image": "imagen_proyecto.png",
             "url": "https://www.linkedin.com/in/ignacio-carrillo/",
             "github": "https://github.com/nachocarr/"
         }
@@ -96,7 +96,7 @@
         {
             "icon": "graduation-cap",
             "title": "UNED",
-            "subtitle": "Grado en desarrollo de aplciaicones web",
+            "subtitle": "Grado en desarrollo de aplicaciones web",
             "description": "Programación sólida en Java y Python aplicada a la lógica de negocio y arquitectura de aplicaciones. Diseño y optimización de consultas complejas en SQL para la manipulación eficiente de grandes volúmenes de datos.Configuración y mantenimiento de entornos en servidores Windows y Linux, con enfoque en conectividad, seguridad y gestión de redes.",
             "date": "sep.2024-Actualmente"
         }
@@ -105,14 +105,14 @@
         {
             "image": "electrofilm_espa_ola_logo.jpg",
             "title": "Elesa Lubricantes",
-            "description": "Participe en la creacion de la nueva web coporativa asi como en el e-commerce.",
+            "description": "Participé en la creación de la nueva web corporativa asi como en el e-commerce.",
             "url": ""
            
         },
         {
             "image": "/gol_stadium.webp",
             "title": "Gol Stadium",
-            "description": "Consultoría estratégica para el diseño y desarrollo de una landing pages orientadas al perfomance.",
+            "description": "Consultoría estratégica para el diseño y desarrollo de landing pages orientadas al performance.",
             "url": ""
         },
         {
