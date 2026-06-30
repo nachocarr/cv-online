@@ -1,8 +1,8 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
+    "title": "Ignacio Carrillo López | Portafolio",
+    "description": "Perfil híbrido en Marketing Digital y Desarrollo Web.",
+    "image": "/Foto CV actual.jpg",
+    "avatar": "/Foto CV actual.jpg",
     "name": "Thomas A. Anderson (Neo)",
     "skill": "Programador, hacker y el Elegido",
     "location": "Madrid",
@@ -12,7 +12,7 @@
         "github": "https://github.com/thomasanderson",
         "likedin": "https://linkedin.com/in/thomasanderson"
     },
-    "about": "Perfil híbrido en Marketing Digital y Desarrollo Web, especializado en la analítica de datos. Combino estrategias de crecimiento con habilidades técnicas (SQL, Java) para transformar datos en decisiones de negocio e implementar soluciones web eficientes. Proactivo, enfocado al detalle y en constante evolución tecnológica.",
+    "about": "Combino estrategias de crecimiento con habilidades técnicas (SQL, Java) para transformar datos en decisiones de negocio e implementar soluciones web eficientes. Proactivo, enfocado al detalle y en constante evolución tecnológica.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
