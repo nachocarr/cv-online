@@ -3,125 +3,121 @@
     "description": "Perfil híbrido en Marketing Digital y Desarrollo Web.",
     "image": "/Foto CV actual.jpg",
     "avatar": "/Foto CV actual.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
+    "name": "Ignacio Carrillo López",
+    "skill": "Programador y gestor de campañas digitales ",
     "location": "Madrid",
     "media": {
         "email": "nacarrillo.lo@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/nachocarr",
+        "likedin": "https://www.linkedin.com/in/ignacio-carrillo/"
     },
     "about": "Combino estrategias de crecimiento con habilidades técnicas (SQL, Java) para transformar datos en decisiones de negocio e implementar soluciones web eficientes. Proactivo, enfocado al detalle y en constante evolución tecnológica.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-oracle-plain",
+            "name": "SQL"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "Html"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
         }
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-           "description": "- Creación plan de medios de campañas en G.Ads y Meta\n- Análisis, evaluación y ejecución de optimizaciones en las campañas\n- Comunicación y reporting con cliente\n- Gestión de grandes cuentas con enfoque a performance (+100k€/mes)."
+            "title": "HMG",
+            "subtitle": "Getor de camapañas",
+           "description":  
+                            "Creación de planes de medios en Google Ads y Meta. Análisis, evaluación y ejecución de optimizaciones en campañas. Comunicación constante y reporting con el cliente. Gestión de cuentas de alto rendimiento (+100k€/mes).",
+            "date": "nov.2023 - ene.2025"            
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "shopping-cart",
+            "title": "Elesa Lubricantes",
+            "subtitle": "Programador E-Commerce",
+            "description": 
+                "Colaboración en la creación de un e-commerce en wordpress. Implementación de eventos con GTM. Análisis de eventos con GA4",
+
+            "date": "feb.2023 - nov.2023",
+            "url": "https://elesalubricantes.com/"
+
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Motor de Portafolio Dinámico",
+            "subtitle": "Arquitectura Web con Reflex",
+            "description": "Desarrollo del portafolio personal utilizando el framework Reflex (Python). Implementación de renderizado dinámico basado en JSON, diseño responsivo y optimización de componentes.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-reflex-plain",
+                    "name": "Reflex"
                 }
             ],
             "image": "/project_1.jpg",
             "url": "https://matrix.fandom.com/wiki/MetaCortex",
             "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
         }
+
     ],
+       
+
+    
+    
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Universidad Rey Juan Carlos",
+            "subtitle": "Graduado en Marketing",
+            "description": "Aplicación práctica de herramientas CRM para la automatización de marketing y segmentación de audiencias. Diseño y optimización de landing pages enfocadas en la conversión. Enfoque comunicativo basado en datos para maximizar la relevancia del producto en mercados competitivos.",
+            "date": "sep.2019-nov.2023"
+            
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "UNED",
+            "subtitle": "Grado en desarrollo de aplciaicones web",
+            "description": "Programación sólida en Java y Python aplicada a la lógica de negocio y arquitectura de aplicaciones. Diseño y optimización de consultas complejas en SQL para la manipulación eficiente de grandes volúmenes de datos.Configuración y mantenimiento de entornos en servidores Windows y Linux, con enfoque en conectividad, seguridad y gestión de redes.",
+            "date": "sep.2024-Actualmente"
         }
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "image": "electrofilm_espa_ola_logo.jpg",
+            "title": "Elesa Lubricantes",
+            "description": "Participe en la creacion de la nueva web coporativa asi como en el e-commerce.",
+            "url": ""
+           
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "image": "/gol_stadium.webp",
+            "title": "Gol Stadium",
+            "description": "Consultoría estratégica para el diseño y desarrollo de una landing pages orientadas al perfomance.",
+            "url": ""
         },
         {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "el_mundo.jpg",
+            "title": "Diario El Mundo",
+            "description": "Planificación, implementación y gestión integral de campañas de Performance Marketing en Google y Meta Ads, enfocadas en la optimización del CPA y el incremento exponencial de suscripciones digitales al diario.",
+            "url": ""
         }
     ]
 }
