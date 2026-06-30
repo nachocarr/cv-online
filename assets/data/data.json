@@ -5,14 +5,14 @@
     "avatar": "/avatar.jpg",
     "name": "Thomas A. Anderson (Neo)",
     "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "location": "Madrid",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "nacarrillo.lo@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/thomasanderson",
         "likedin": "https://linkedin.com/in/thomasanderson"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Perfil híbrido en Marketing Digital y Desarrollo Web, especializado en la analítica de datos. Combino estrategias de crecimiento con habilidades técnicas (SQL, Java) para transformar datos en decisiones de negocio e implementar soluciones web eficientes. Proactivo, enfocado al detalle y en constante evolución tecnológica.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
@@ -40,8 +40,7 @@
             "icon": "terminal",
             "title": "Metacortex",
             "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+           "description": "- Creación plan de medios de campañas en G.Ads y Meta\n- Análisis, evaluación y ejecución de optimizaciones en las campañas\n- Comunicación y reporting con cliente\n- Gestión de grandes cuentas con enfoque a performance (+100k€/mes)."
         },
         {
             "icon": "rabbit",
